@@ -1,25 +1,9 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Adds Minbari and Centauri races from Babylon 5.[/h1]
-Currently exists only as hair options for human. I finished these assets and wanted to get them out while the larger project is in progess. Enjoy!
-
-contains:
-17 hair styles
-
-Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5hum]git[/url].
-
-LEAVE A COMMENT IF YOU
-like the mod
-hate the mod
-find an issue with the mod
-take an issue with the mod
-have a question about the mod
-have a problem with the mod
-and especially
-[u][b]if you have a request[/b][/u]",
+  "description" : "[h1]Adds Minbari and Centauri races from Babylon 5.[/h1]\nCurrently exists only as hair options for human. I finished these assets and wanted to get them out while the larger project is in progess. Enjoy!\n\ncontains:\n17 hair styles\n\nFind the server version on [url=https://github.com/IsaacHart/sbmod-bab5hum]git[/url].\n\nLEAVE A COMMENT IF YOU\nlike the mod\nhate the mod\nfind an issue with the mod\ntake an issue with the mod\nhave a question about the mod\nhave a problem with the mod\nand especially\n[u][b]if you have a request[/b][/u]",
   "friendlyName" : "Babylon 5 (human edits)",
-  "link" : "https://github.com/IsaacHart/sbmod-bab5hum",
+  "link" : "steam://url/CommunityFilePage/761338417",
   "name" : "BAB5HUM.IHC",
+  "steamContentId" : "761338417",
   "version" : "0.1"
 }
-
